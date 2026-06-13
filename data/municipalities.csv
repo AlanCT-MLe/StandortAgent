@@ -1,0 +1,21 @@
+gemeinde,bundesland,einwohner,altersverteilung_18_34,altersverteilung_35_54,altersverteilung_55_plus,poi_dichte,mietindex_eur_m2,oev_score
+"Wien (1., Innere Stadt)",Wien,16000,0.28,0.35,0.37,9.2,28.5,9.8
+"Wien (7., Neubau)",Wien,30000,0.42,0.31,0.27,8.7,22.0,9.5
+"Wien (10., Favoriten)",Wien,210000,0.36,0.34,0.3,6.4,14.8,8.9
+Graz (Innere Stadt),Steiermark,28000,0.38,0.33,0.29,7.4,14.5,8.2
+Graz (Lend),Steiermark,32000,0.41,0.32,0.27,6.6,12.1,7.8
+Leoben (Zentrum),Steiermark,24000,0.3,0.34,0.36,4.3,8.9,5.4
+Linz (Stadtmitte),Oberösterreich,22000,0.35,0.36,0.29,6.8,13.2,7.9
+Linz (Urfahr),Oberösterreich,28000,0.39,0.34,0.27,5.5,11.4,7.3
+Wels (Innenstadt),Oberösterreich,21000,0.32,0.35,0.33,5.1,10.2,6.1
+Innsbruck (Zentrum),Tirol,18000,0.4,0.32,0.28,7.1,17.8,8.6
+Innsbruck (Wilten),Tirol,16000,0.44,0.3,0.26,6.0,15.6,8.1
+Salzburg (Altstadt),Salzburg,12000,0.33,0.35,0.32,8.1,20.5,8.0
+Salzburg (Lehen),Salzburg,20000,0.37,0.34,0.29,5.7,14.9,7.4
+Klagenfurt (Innenstadt),Kärnten,17000,0.31,0.37,0.32,5.9,11.8,6.5
+Villach (Zentrum),Kärnten,15000,0.29,0.36,0.35,5.0,10.4,5.9
+St. Pölten (Zentrum),Niederösterreich,19000,0.33,0.36,0.31,5.6,11.0,7.0
+Wiener Neustadt (Zentrum),Niederösterreich,23000,0.34,0.35,0.31,5.3,10.7,6.8
+Eisenstadt (Zentrum),Burgenland,9000,0.3,0.37,0.33,4.4,9.6,5.7
+Bregenz (Zentrum),Vorarlberg,10000,0.29,0.38,0.33,5.2,16.9,7.2
+Dornbirn (Zentrum),Vorarlberg,14000,0.32,0.37,0.31,5.8,15.3,6.9

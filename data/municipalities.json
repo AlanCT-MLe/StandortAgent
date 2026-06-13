@@ -1,0 +1,205 @@
+{
+  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
+  "municipalities": [
+    {
+      "gemeinde": "Wien (1., Innere Stadt)",
+      "bundesland": "Wien",
+      "einwohner": 16000,
+      "altersverteilung": { "18_34": 0.28, "35_54": 0.35, "55_plus": 0.37 },
+      "poi_dichte": 9.2,
+      "mietindex_eur_m2": 28.5,
+      "oev_score": 9.8,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Wien (7., Neubau)",
+      "bundesland": "Wien",
+      "einwohner": 30000,
+      "altersverteilung": { "18_34": 0.42, "35_54": 0.31, "55_plus": 0.27 },
+      "poi_dichte": 8.7,
+      "mietindex_eur_m2": 22.0,
+      "oev_score": 9.5,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Wien (10., Favoriten)",
+      "bundesland": "Wien",
+      "einwohner": 210000,
+      "altersverteilung": { "18_34": 0.36, "35_54": 0.34, "55_plus": 0.30 },
+      "poi_dichte": 6.4,
+      "mietindex_eur_m2": 14.8,
+      "oev_score": 8.9,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Graz (Innere Stadt)",
+      "bundesland": "Steiermark",
+      "einwohner": 28000,
+      "altersverteilung": { "18_34": 0.38, "35_54": 0.33, "55_plus": 0.29 },
+      "poi_dichte": 7.4,
+      "mietindex_eur_m2": 14.5,
+      "oev_score": 8.2,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Graz (Lend)",
+      "bundesland": "Steiermark",
+      "einwohner": 32000,
+      "altersverteilung": { "18_34": 0.41, "35_54": 0.32, "55_plus": 0.27 },
+      "poi_dichte": 6.6,
+      "mietindex_eur_m2": 12.1,
+      "oev_score": 7.8,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Leoben (Zentrum)",
+      "bundesland": "Steiermark",
+      "einwohner": 24000,
+      "altersverteilung": { "18_34": 0.30, "35_54": 0.34, "55_plus": 0.36 },
+      "poi_dichte": 4.3,
+      "mietindex_eur_m2": 8.9,
+      "oev_score": 5.4,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Linz (Stadtmitte)",
+      "bundesland": "Oberösterreich",
+      "einwohner": 22000,
+      "altersverteilung": { "18_34": 0.35, "35_54": 0.36, "55_plus": 0.29 },
+      "poi_dichte": 6.8,
+      "mietindex_eur_m2": 13.2,
+      "oev_score": 7.9,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Linz (Urfahr)",
+      "bundesland": "Oberösterreich",
+      "einwohner": 28000,
+      "altersverteilung": { "18_34": 0.39, "35_54": 0.34, "55_plus": 0.27 },
+      "poi_dichte": 5.5,
+      "mietindex_eur_m2": 11.4,
+      "oev_score": 7.3,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Wels (Innenstadt)",
+      "bundesland": "Oberösterreich",
+      "einwohner": 21000,
+      "altersverteilung": { "18_34": 0.32, "35_54": 0.35, "55_plus": 0.33 },
+      "poi_dichte": 5.1,
+      "mietindex_eur_m2": 10.2,
+      "oev_score": 6.1,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Innsbruck (Zentrum)",
+      "bundesland": "Tirol",
+      "einwohner": 18000,
+      "altersverteilung": { "18_34": 0.40, "35_54": 0.32, "55_plus": 0.28 },
+      "poi_dichte": 7.1,
+      "mietindex_eur_m2": 17.8,
+      "oev_score": 8.6,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Innsbruck (Wilten)",
+      "bundesland": "Tirol",
+      "einwohner": 16000,
+      "altersverteilung": { "18_34": 0.44, "35_54": 0.30, "55_plus": 0.26 },
+      "poi_dichte": 6.0,
+      "mietindex_eur_m2": 15.6,
+      "oev_score": 8.1,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Salzburg (Altstadt)",
+      "bundesland": "Salzburg",
+      "einwohner": 12000,
+      "altersverteilung": { "18_34": 0.33, "35_54": 0.35, "55_plus": 0.32 },
+      "poi_dichte": 8.1,
+      "mietindex_eur_m2": 20.5,
+      "oev_score": 8.0,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Salzburg (Lehen)",
+      "bundesland": "Salzburg",
+      "einwohner": 20000,
+      "altersverteilung": { "18_34": 0.37, "35_54": 0.34, "55_plus": 0.29 },
+      "poi_dichte": 5.7,
+      "mietindex_eur_m2": 14.9,
+      "oev_score": 7.4,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Klagenfurt (Innenstadt)",
+      "bundesland": "Kärnten",
+      "einwohner": 17000,
+      "altersverteilung": { "18_34": 0.31, "35_54": 0.37, "55_plus": 0.32 },
+      "poi_dichte": 5.9,
+      "mietindex_eur_m2": 11.8,
+      "oev_score": 6.5,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Villach (Zentrum)",
+      "bundesland": "Kärnten",
+      "einwohner": 15000,
+      "altersverteilung": { "18_34": 0.29, "35_54": 0.36, "55_plus": 0.35 },
+      "poi_dichte": 5.0,
+      "mietindex_eur_m2": 10.4,
+      "oev_score": 5.9,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "St. Pölten (Zentrum)",
+      "bundesland": "Niederösterreich",
+      "einwohner": 19000,
+      "altersverteilung": { "18_34": 0.33, "35_54": 0.36, "55_plus": 0.31 },
+      "poi_dichte": 5.6,
+      "mietindex_eur_m2": 11.0,
+      "oev_score": 7.0,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Wiener Neustadt (Zentrum)",
+      "bundesland": "Niederösterreich",
+      "einwohner": 23000,
+      "altersverteilung": { "18_34": 0.34, "35_54": 0.35, "55_plus": 0.31 },
+      "poi_dichte": 5.3,
+      "mietindex_eur_m2": 10.7,
+      "oev_score": 6.8,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Eisenstadt (Zentrum)",
+      "bundesland": "Burgenland",
+      "einwohner": 9000,
+      "altersverteilung": { "18_34": 0.30, "35_54": 0.37, "55_plus": 0.33 },
+      "poi_dichte": 4.4,
+      "mietindex_eur_m2": 9.6,
+      "oev_score": 5.7,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Bregenz (Zentrum)",
+      "bundesland": "Vorarlberg",
+      "einwohner": 10000,
+      "altersverteilung": { "18_34": 0.29, "35_54": 0.38, "55_plus": 0.33 },
+      "poi_dichte": 5.2,
+      "mietindex_eur_m2": 16.9,
+      "oev_score": 7.2,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    },
+    {
+      "gemeinde": "Dornbirn (Zentrum)",
+      "bundesland": "Vorarlberg",
+      "einwohner": 14000,
+      "altersverteilung": { "18_34": 0.32, "35_54": 0.37, "55_plus": 0.31 },
+      "poi_dichte": 5.8,
+      "mietindex_eur_m2": 15.3,
+      "oev_score": 6.9,
+      "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position"
+    }
+  ]
+}
