@@ -17,6 +17,9 @@ Please find the code review here -> [review](https://github.com/AlanCT-MLe/Stand
 #### Brief decision log + key prompts
 Please find the decision log here -> [log](https://github.com/AlanCT-MLe/StandortAgent/blob/main/decision_log_key_prompts.md)
 
+#### Self Report
+It took me around 10 hours of work.
+
 
 To run the Standort Agent you will need to install the required packages with **conda**:
 ```powershell
