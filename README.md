@@ -9,7 +9,7 @@ You can find an example of the HTML of profil 3 here [report](https://github.com
 
 #### Walkthrough video
 
-Link to the video here -> [video]()
+Link to the video here -> [video](https://youtu.be/uPu_Z6CmxeA)
 
 #### Code review response
 Please find the code review here -> [review](https://github.com/AlanCT-MLe/StandortAgent/blob/main/code-review.md)

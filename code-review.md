@@ -68,5 +68,5 @@ def score_municipalities(
 3. There is no normalization of the weighted signals. Having different scales would give a false score.
 4. The argument municipalities definition use the function Any, which allow the
 user to enter any object to keys of the dictionary. There is no safety check to
-review that only the "community" value is a string and the rest of the keys are floats. 
+review that only the "community" value is a string and the rest of the items of the keys are floats. 
 5. The demographic score just refers to the proportion of 18-34 years old, it ignores the rest of the demographic. Making the score bias.

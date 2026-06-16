@@ -1,0 +1,6 @@
+# Hide environment secrets
+.env
+
+# Hide Python compilation files
+__pycache__/
+*.pyc
