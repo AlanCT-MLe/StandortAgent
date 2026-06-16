@@ -4,6 +4,9 @@ Welcome to my Standort Agent project. The objective of this agent is to give an
 educated recommendation about the best municipality options to stablish a business
 based on the **industry** :factory:, **area $m^{2}$**:triangular_ruler:, **target group**:family:, **rent-budget (euros)** :dollar:, and the **prefered region** :earth_africa: stablished by the client business needs.
 
+#### Report HTML
+You can find an example of the HTML of profil 3 here [report](https://github.com/AlanCT-MLe/StandortAgent/blob/main/location_suitability_report_profil3.html). Just download it and open with your favorite browser.
+
 To run the Standort Agent you will need to install the required packages with **conda**:
 ```powershell
 conda env create -f environment.yml
