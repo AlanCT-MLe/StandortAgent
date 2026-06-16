@@ -7,6 +7,17 @@ based on the **industry** :factory:, **area $m^{2}$**:triangular_ruler:, **targe
 #### Report HTML
 You can find an example of the HTML of profil 3 here [report](https://github.com/AlanCT-MLe/StandortAgent/blob/main/location_suitability_report_profil3.html). Just download it and open with your favorite browser.
 
+#### Walkthrough video
+
+Link to the video here -> [video]()
+
+#### Code review response
+Please find the code review here -> [review](https://github.com/AlanCT-MLe/StandortAgent/blob/main/code-review.md)
+
+#### Brief decision log + key prompts
+Please find the decision log here -> [log](https://github.com/AlanCT-MLe/StandortAgent/blob/main/decision_log_key_prompts.md)
+
+
 To run the Standort Agent you will need to install the required packages with **conda**:
 ```powershell
 conda env create -f environment.yml
@@ -15,7 +26,7 @@ conda activate standort_agent
 
 #### API Key and Run
 1. Before running the agent you need to create a .env file in the root directory.
-2. Inside .env write you Google AI key. An example is set in the file .env.example
+2. Inside .env write your Google AI key. An example is set in the file .env.example
 
 #### Run the agent
 After creating the environment and adding your Google API key, there are two options to run
@@ -32,7 +43,9 @@ python main.py --profile example/profil_1.json
     You can enter the information by copying and pasting the dictionary with the
     user's profile information, writing **"END"** and then click enter.
 ```powershell
-python main.py --interactive {
+python main.py --interactive
+Paste JSON (END to finish):
+{
   "branche": "Gastronomie / Café",
   "flaeche_m2": 120,
   "zielgruppe": "Studierende und Familien",
